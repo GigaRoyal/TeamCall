@@ -13,7 +13,7 @@ const Footer = () => {
         style={{ color: "#fdfdfd" }}
         rel="noreferrer"
       >
-        Rayan Majeed
+        Ronu
       </a>
     </footer>
   );
